@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/desmond-eagle.jpg
+      url: /images/contact-section-a.png
       altText: Image alt text
       caption: Image caption
     styles:
