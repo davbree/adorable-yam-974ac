@@ -9,7 +9,7 @@ export default function CheckboxFormControl(props) {
         attr['aria-labelledby'] = labelId;
     }
     if (props.isRequired) {
-        attr.required = true;
+        attr.required = false;
     }
     return (
         <div
